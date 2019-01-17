@@ -17,3 +17,9 @@
   `# docker run -d --name hexo -p 4000:4000 -v hexo:/usr/hexo wangcaitao/hexo:1.0.0-alpine`
 * config hexo  
   [详细配置文档](http://wangcaitao.cn/hexo/docker/start/)
+
+## openjdk
+
+### 8u191-jre-alpine
+
+* 其他 java 环境依赖 `FROM wangcaitao/openjdk:8u191-jre-alpine`
