@@ -23,3 +23,10 @@
 ### 8u191-jre-alpine
 
 * 其他 java 环境依赖 `FROM wangcaitao/openjdk:8u191-jre-alpine`
+
+## mysql
+
+### 5.7.23
+
+* run 运行前先修改 `password` 为自己设置的密码
+  `# docker run -d -p 3306:3306 -p 33060:33060 --name mysql -v mysql:/var/lib/mysql -v mysql-conf:/etc/mysql -e MYSQL_ROOT_PASSWORD=password wangcaitao/mysql:5.7.23`
