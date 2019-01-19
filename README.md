@@ -21,3 +21,7 @@
 ## redis
 
 [`image`](https://hub.docker.com/r/wangcaitao/redis)
+
+## nginx
+
+[`image`](https://hub.docker.com/r/wangcaitao/nginx)
