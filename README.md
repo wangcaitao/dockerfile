@@ -25,3 +25,7 @@
 ## nginx
 
 [`image`](https://hub.docker.com/r/wangcaitao/nginx)
+
+## frp-server
+
+[`image`](https://hub.docker.com/r/wangcaitao/frp-server)
