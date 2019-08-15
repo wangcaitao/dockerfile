@@ -29,3 +29,7 @@
 ## frp-server
 
 [`image`](https://hub.docker.com/r/wangcaitao/frp-server)
+
+## frp-client
+
+[`image`](https://hub.docker.com/r/wangcaitao/frp-client)
